@@ -1,1 +1,1 @@
-Certificates
+Training and Certificates.
